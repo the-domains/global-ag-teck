@@ -1,0 +1,28 @@
+name: Global Ag Teck
+favicon: null
+layout_spectrum: 0.5364078283309937
+typography_spectrum: 0.48298065713606775
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.1181577614042908
+  lightness: 0.35580524941906333
+  saturation: 0.18661884893663228
+  rhythmicContrast: 0.7661727159284055
+purpose: []
